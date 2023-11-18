@@ -1,19 +1,18 @@
-SS-CarWash
+Jolli-carwash
 ------------------------------------------------------------------------------------------------
-An car wash script for Fivem !
+Carwash script for fivem!
 
-This script includes 2 washing options, the first simply washes the car, the second washes the car and also removes scratches, if the car is not badly damaged. You can configure the damage, the price, the model of the npc, and you can add as many car wash as you want, all configurable through “config”!
+2 washing options
+ESX
+Very nice NPCS models
 
-🧾 - Standard Wash - Only wash car
+- Normaalipesu - Only washes car.
 
-🧾 - Premium Wash - Wash the car and remove any scratches, if the car is not badly damaged !
+ - Rikkaiden pesu - Washes car and remove scratches but if its damaged too much you need to go mechanic
 
-UPDATE
-------------------------------------------------------------------------------------------------
-+ Optimizing, and remove menu if the car is in wash !
-------------------------------------------------------------------------------------------------
-📌DISCORD - https://discord.gg/9XNBaQSmMd ! For Support and Others !
 
-🔖 ESX SUPPORT / CUSTOM SCRIPTS / EDIT SCRIPTS !
 
-Don't edit or publish it without my permission !
+Edit it however you like but do not say its your work or publish it.
+
+HELP? 
+https://discord.gg/8q4KtT6Z
